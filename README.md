@@ -1,5 +1,5 @@
 # HeadLift
-An OpenSCAD model for a bicycle crown bearing spacer to "slacken" the steering geometry of a bicycle.
+An OpenSCAD model for a bicycle crown bearing spacer to "slacken" the steering geometry of a threadless, 1 1/4" bicycle.
 
 <img width="2184" height="1738" alt="headlift" src="https://github.com/user-attachments/assets/9ff0c5a8-492f-4a34-8bf1-07f60b2953b7" />
 
